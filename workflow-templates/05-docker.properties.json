@@ -1,0 +1,8 @@
+{
+  "name": "Publish Docker Image",
+  "description": "Build a Docker image and publish to GHCR",
+  "iconName": "seas-computing",
+  "filePatterns": [
+    "Dockerfile"
+  ]
+}

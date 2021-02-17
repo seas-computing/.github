@@ -1,0 +1,16 @@
+{
+  "name": "Test Suite",
+  "description": "Run our full suite of tests",
+  "iconName": "seas-computing",
+  "categories": [
+    "Typescript",
+    "Javascript"
+  ],
+  "filePatterns": [
+    "package.json",
+    "tsconfig.json",
+    ".eslintrc",
+    ".mocharc",
+    ".codecov.yml"
+  ]
+}

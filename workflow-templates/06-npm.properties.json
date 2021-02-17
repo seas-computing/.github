@@ -1,0 +1,12 @@
+{
+  "name": "Publish to NPM",
+  "description": "Publish package to NPM",
+  "iconName": "seas-computing",
+  "categories": [
+    "Typescript",
+    "Javascript"
+  ],
+  "filePatterns": [
+    "package.json"
+  ]
+}

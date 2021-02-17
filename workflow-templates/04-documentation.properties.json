@@ -1,0 +1,12 @@
+{
+  "name": "Publish Documentation",
+  "description": "Build documentation and publish to gh-pages",
+  "iconName": "seas-computing",
+  "categories": [
+    "Typescript",
+    "Javascript"
+  ],
+  "filePatterns": [
+    "package.json"
+  ]
+}

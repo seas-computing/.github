@@ -1,0 +1,12 @@
+{
+  "name": "Automatic Versioning",
+  "description": "Automatic incrementing of package version on merge to main/develop",
+  "iconName": "seas-computing",
+  "categories": [
+    "Typescript",
+    "Javascript"
+  ],
+  "filePatterns": [
+    "package.json"
+  ]
+}

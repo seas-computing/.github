@@ -1,0 +1,5 @@
+{
+  "name": "Check PR elligibility",
+  "description": "Only allow merges into main from develop",
+  "iconName": "seas-computing"
+}
